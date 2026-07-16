@@ -1,4 +1,4 @@
-package lamdaexpuse;
+package lamdaExpUse;
 
 public interface Employee {
     String getName();

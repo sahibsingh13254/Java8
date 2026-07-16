@@ -1,4 +1,4 @@
-package lamdaexpuse;
+package lamdaExpUse;
 
 public class Main {
     public static void main(String[] args) {
