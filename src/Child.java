@@ -10,5 +10,5 @@ public interface Child extends Parent{
     default void hello(){       // you can declare default & static methods
         System.out.print("Hello sahib");
     }
-    public void carBenz();   // remove the anotaion and this is valid
+     // public void carBenz();   // remove the anotaion and this is valid
 }
