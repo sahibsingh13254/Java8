@@ -27,5 +27,7 @@ public class main {
 
 
         // other example of string can be
+        Predicate<String> checkLetterV = x -> x.toLowerCase().charAt(0) == 'v';
+        System.out.println(checkLetterV.test("Vision"));
     }
 }
