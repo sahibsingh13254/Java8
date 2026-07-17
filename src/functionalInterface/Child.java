@@ -1,8 +1,10 @@
+package functionalInterface;
+
 import java.lang.FunctionalInterface;
 
 @FunctionalInterface  // also you can remove the anotations and it will not be functional interface
 // this is also a functional interface,
-public interface Child extends Parent{
+public interface Child extends Parent {
     @Override
     public void sayHi(); // This is valid bcz it is the same method
 

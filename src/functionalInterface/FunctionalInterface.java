@@ -1,4 +1,4 @@
-
+package functionalInterface;
 
 @java.lang.FunctionalInterface
 public interface FunctionalInterface {
